@@ -83,3 +83,8 @@ It detects sudden falls based on acceleration and orientation changes, then send
 ---
 
 ## 📝 Example Serial Output
+
+TRIGGER 1 ACTIVATED
+TRIGGER 2 ACTIVATED
+TRIGGER 3 ACTIVATED
+FALL DETECTED
