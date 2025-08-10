@@ -76,7 +76,8 @@ It detects sudden falls based on acceleration and orientation changes, then send
 ---
 
 ## 📷 Demonstration
-![Fall Detection Setup](Circuit diagram.jpg)
+![Circuit Diagram](https://raw.githubusercontent.com/FiyinfoluwaDav/Fall-detection-for-elderly/main/Circuit%20diagram.jpg)
+
 
 
 ---
